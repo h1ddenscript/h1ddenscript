@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @h1ddenscript
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img src="https://raw.githubusercontent.com/h1ddenscript/h1ddenscript/main/assets/twt.png"/>
 
-<!---
-h1ddenscript/h1ddenscript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## hello
+- i make stuff like rblx ui i might put stuff on here if im not lazy lol
+- feel free to take whatever u want. please credit if u are taking a lot of things. u dont need to credit if its like a small thing yk
+
